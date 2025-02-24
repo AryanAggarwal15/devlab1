@@ -5,3 +5,5 @@
 <!-- =======
 ## Feature: Conflict resolution
 >>>>>>> conflict-branch -->
+
+## Feature: Stash Changes
